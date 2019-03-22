@@ -1,0 +1,4 @@
+2019-03-20T19:58:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wp-loja\wp-content\plugins\ocean-extra\includes\widgets\social.php, na linha 9
+
+2019-03-20T23:27:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wp-loja\wp-admin\includes\template.php, na linha 12
+

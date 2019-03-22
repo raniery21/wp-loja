@@ -1,0 +1,4 @@
+2019-03-19T20:11:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wp-loja\wp-content\plugins\elementor\modules\history\module.php, na linha 7
+
+2019-03-19T20:11:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wp-loja\wp-content\plugins\ocean-extra\includes\widgets\instagram.php, na linha 9
+
