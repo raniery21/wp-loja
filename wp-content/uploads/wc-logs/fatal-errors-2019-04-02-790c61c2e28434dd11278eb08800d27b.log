@@ -1,0 +1,102 @@
+2019-04-02T00:08:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\wp-loja\wp-includes\class-wp-theme.php, na linha 1143
+
+2019-04-02T00:10:29+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:10:35+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:10:40+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:10:51+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:11:07+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:13:26+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:13:35+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:14:44+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:18:09+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
+2019-04-02T00:18:14+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on string in C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php:154
+Stack trace:
+#0 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(288): custom_woocommerce_product_add_to_cart_text('Comprar')
+#1 C:\xampp\htdocs\wp-loja\wp-includes\plugin.php(208): WP_Hook->apply_filters('Comprar', Array)
+#2 C:\xampp\htdocs\wp-loja\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', 'Comprar', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1314): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\wp-loja\wp-content\themes\oceanwp\inc\woocommerce\woocommerce-config.php(1293): OceanWP_WooCommerce_Config::floating_bar_add_to_cart(Object(WC_Product_Simple))
+#5 C:\xampp\htdocs\wp-loja\wp-includes\class-wp-hook.php(286): OceanWP_WooCommerce_Config->floating_bar('')
+#6 C:\xampp\htdocs\wp-l, em C:\xampp\htdocs\wp-loja\wp-content\plugins\wc-custom-add-to-cart-labels\wc-custom-add-to-cart-labels.php, na linha 154
+
